@@ -45,3 +45,22 @@ Schematic diagram:
 !<img width="1407" height="768" alt="schematic for the weapon" src="https://github.com/user-attachments/assets/d8ef5f39-ab75-4e10-997e-6a7a645e8328" />
 
 
+## Bill of Materials (BOM)
+
+| Component | Estimated Cost (USD) | Status / Notes |
+| :--- | :--- | :--- |
+| **Compressor** | $120.00 – $150.00 | Required for refrigeration cycle |
+| **Condenser** | $70.00 – $100.00 | Heat dissipation |
+| **Evaporator Coil** | $60.00 – $90.00 | Cooling element inside the chamber |
+| **Thermostat** | $25.00 – $75.00 | Price varies based on programmable model |
+| **Refrigerant Filter** | $15.00 – $30.00 | Inline cycle purification |
+| **Expansion Valve** | $10.00 – $25.00 | Pressure regulation |
+| **Fans (x2)** | $10.00 – $20.00 | Forced convection and airflow uniformity |
+| **Heater** | $10.00 | Heating element for stabilization |
+| **BH1750 Sensor** | $7.00 – $12.00 | Ambient light monitoring |
+| **Lighting Element** | $10.00 | Type TBD |
+| **DHT22 Sensor** | $0.00 | Already on hand |
+| **ESP32 Microcontroller** | $0.00 | Already on hand |
+| **Incubator Body** | $0.00 | Sourced from warehouse insulator panels |
+| **Total Estimated Cost** | **$362.00 – $522.00** | **Project budget range** |
+
