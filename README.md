@@ -31,7 +31,17 @@ Made for Forge.
 ## Screenshots
 
 Initial Design Blueprint and Component Layout Sketch:
-![System Design Sketch](image_13f5c0.jpg)
+
+!<img width="4160" height="3120" alt="IMG_20260616_220047" src="https://github.com/user-attachments/assets/91c62fac-f265-4f3d-8d00-c67bab45789c" />
+
 
 Hardware Assembly and Cycle Integration:
-![Hardware Assembly Log](image_13f5fd.jpg)
+
+!<img width="960" height="1280" alt="photo_2026-06-25_06-56-48" src="https://github.com/user-attachments/assets/95c41366-675d-4e98-a54d-41d4f2c211ee" />
+
+
+Schematic diagram:
+
+!<img width="1407" height="768" alt="schematic for the weapon" src="https://github.com/user-attachments/assets/d8ef5f39-ab75-4e10-997e-6a7a645e8328" />
+
+
