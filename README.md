@@ -61,6 +61,6 @@ Schematic diagram:
 | **Lighting Element** | $10.00 | Type TBD |
 | **DHT22 Sensor** | $0.00 | Already on hand |
 | **ESP32 Microcontroller** | $0.00 | Already on hand |
-| **Incubator Body** | $0.00 | Sourced from warehouse insulator panels |
-| **Total Estimated Cost** | **$362.00 – $522.00** | **Project budget range** |
+| **Incubator Body** | $60 | Sourced from a local shop area |
+| **Total Estimated Cost** | **$422.00 – $522.00** | **Project budget range** |
 
