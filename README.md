@@ -45,7 +45,7 @@ Schematic diagram:
 !<img width="1407" height="768" alt="schematic for the weapon" src="https://github.com/user-attachments/assets/d8ef5f39-ab75-4e10-997e-6a7a645e8328" />
 
 
-## Bill of Materials (BOM)
+## Bill of Materials (Rough BOM)
 
 | Component | Estimated Cost (USD) | Status / Notes |
 | :--- | :--- | :--- |
