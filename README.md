@@ -8,10 +8,7 @@
 
 The incubator regulates a highly controlled environment inside an isolated chamber using an integrated closed-loop cooling and heating cycle. You manage the system via a custom-wired breadboard and timer assembly. The thermodynamic cycle relies on a compressor pushing refrigerant through the condenser, passing through the filter, and entering the expansion valve and evaporator to absorb heat, while an internal fan forces air circulation to maintain perfectly uniform temperature distributions across your biological samples. 
 
-Make sure all your custom welding points are sealed tightly before running a full cycle.
-Keep your eyes on the sensor readouts to ensure stable conditions <3
 
-Project Repository / Devlog URL:-
 
 ## Why I made it: 
 
