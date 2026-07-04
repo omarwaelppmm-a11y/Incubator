@@ -1,6 +1,6 @@
 # Smart Incubator for Biological Processes
 
-## Platform: Forge ()
+## Platform: Forge 
 
 ## Author: Omar Wael
 
