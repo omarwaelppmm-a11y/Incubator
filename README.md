@@ -114,7 +114,8 @@ Hardware Assembly and Cycle Integration:
 
 Schematic diagram:
 
-!<img width="1407" height="768" alt="schematic for the weapon" src="https://github.com/user-attachments/assets/d8ef5f39-ab75-4e10-997e-6a7a645e8328" />
+<img width="753" height="472" alt="image" src="https://github.com/user-attachments/assets/533b4b30-94d1-4b08-a4d4-b66ca92c73d8" />
+
 
 
 ## Bill of Materials (Rough BOM)
