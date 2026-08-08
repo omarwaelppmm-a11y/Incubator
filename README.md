@@ -9,6 +9,9 @@
 The incubator regulates a highly controlled environment inside an isolated chamber using an integrated closed-loop cooling and heating cycle. You manage the system via a custom-wired breadboard and timer assembly. The thermodynamic cycle relies on a compressor pushing refrigerant through the condenser, passing through the filter, and entering the expansion valve and evaporator to absorb heat, while an internal fan forces air circulation to maintain perfectly uniform temperature distributions across your biological samples. 
 
 
+pls read that part briefly because it is a huge step to understand the project and [ how it works ]
+
+
 and that is the how i explanined it brifely in Forge
 
 just to put you in view and explain how a refrigeration cycles works, you need to have 4 main components a compressor, evaporator, condenser and expansion valve, and no refrigeration cycle can work without those components and here is why. 
