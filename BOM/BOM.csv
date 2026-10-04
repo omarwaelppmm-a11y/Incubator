@@ -1,0 +1,15 @@
+Component,Quantity,Estimated Cost Min (USD),Estimated Cost Max (USD),Status / Notes
+Compressor,1,$120.00,$150.00,Required for refrigeration cycle
+Condenser,1,$70.00,$100.00,Heat dissipation
+Evaporator Coil,1,$60.00,$90.00,Cooling element inside the chamber
+Thermostat,2,$25.00,$75.00,Price varies based on programmable model
+Refrigerant Filter,1,$15.00,$30.00,Inline cycle purification
+Expansion Valve,1,$10.00,$25.00,Pressure regulation
+Fans (x2),2,$10.00,$20.00,Forced convection and airflow uniformity
+Heater,1,$10.00,$10.00,Heating element for stabilization
+BH1750 Sensor,1,$7.00,$12.00,Ambient light monitoring
+Lighting Element,1,$10.00,$10.00,Type TBD
+DHT22 Sensor,1,$0.00,$0.00,Already on hand
+ESP32 Microcontroller,1,$0.00,$0.00,Already on hand
+Incubator Body,1,$60.00,$60.00,Sourced from a local shop area
+Total Estimated Cost,,$397.00,$582.00,
